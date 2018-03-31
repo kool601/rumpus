@@ -6,7 +6,7 @@
 	url = https://github.com/lukexi/gl-pal.git
 [submodule "submodules/bullet-mini"]
 	path = submodules/bullet-mini
-	url = https://github.com/lukexi/bullet-mini.git
+	url = https://github.com/kool601/bullet-mini.git
 [submodule "submodules/vr-pal"]
 	path = submodules/vr-pal
 	url = https://github.com/lukexi/vr-pal.git
@@ -27,13 +27,13 @@
 	url = https://github.com/lukexi/openvr-hs.git
 [submodule "submodules/pd-hs"]
 	path = submodules/pd-hs
-	url = https://github.com/lukexi/pd-hs.git
+	url = https://github.com/kool601/pd-hs.git
 [submodule "submodules/bindings-GLFW"]
 	path = submodules/bindings-GLFW
 	url = https://github.com/lukexi/bindings-GLFW.git
 [submodule "submodules/freetype-gl-mini"]
 	path = submodules/freetype-gl-mini
-	url = https://github.com/lukexi/freetype-gl-mini.git
+	url = https://github.com/kool601/freetype-gl-mini.git
 [submodule "submodules/text-gl"]
 	path = submodules/text-gl
 	url = https://github.com/lukexi/text-gl.git
